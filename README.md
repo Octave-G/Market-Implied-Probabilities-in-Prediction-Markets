@@ -1,5 +1,7 @@
 # EMPIRICAL ANALYSIS ON VOLATILITY AND PROBABILITIES: A STUDY ON OPTIONS AND PREDICTION MARKETS
 
+## [Some parts of the project are yet to be added in this repo]
+
 - **Hypothesis 1 : Price Consistency Across Markets**
 
 Analyzing price formation across different types of markets is crucial for understanding how information is integrated. This hypothesis aims to verify whether financial instruments in two distinct markets produce consistent or divergent signals. The objective is to evaluate how the prices of an event in a prediction market and binary options prices are reflected.
